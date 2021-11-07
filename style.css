@@ -1,7 +1,10 @@
 .jumbotron {
   padding-top: 2rem;
-  background-color: #f3e5e5;
+  background-color: #e2edff;
 }
 h1 {
-  color: rgb(201, 11, 11);
+  color: rgb(31, 2, 2);
+}
+#projects {
+  background-color: #e2edff;
 }
